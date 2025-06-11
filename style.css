@@ -76,7 +76,8 @@
       margin-bottom:1rem;
     }
     .subtitle {
-    color: #52525B;
+    /* color: #52525B; */
+    color: #71717A;
       max-width:800px;
       margin:0 auto;
       font-size:1.25rem;
@@ -174,3 +175,5 @@
     font-size: 1.75rem;
     border-radius: 0.5rem;
   }
+
+  
